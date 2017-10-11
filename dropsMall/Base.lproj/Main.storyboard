@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G12b" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="Yxw-Lq-Fed">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Home-->
+        <scene sceneID="B44-1p-TJn">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Home" id="Qud-ar-fgN" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="home_home_tab" selectedImage="home_home_tab_s" id="tQG-zD-Knt">
+                        <inset key="imageInsets" minX="0.0" minY="8" maxX="0.0" maxY="-8"/>
+                    </tabBarItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Tow-XW-4XX" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="606" y="67"/>
+        </scene>
+        <!--activity-->
+        <scene sceneID="uCg-SY-hCg">
+            <objects>
+                <viewControllerPlaceholder storyboardName="activity" id="eyT-o6-e9i" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="home_category_tab" selectedImage="home_category_tab_s" id="4tv-vG-VwS">
+                        <inset key="imageInsets" minX="0.0" minY="8" maxX="0.0" maxY="-8"/>
+                    </tabBarItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="9V8-3n-aAK" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="661" y="229"/>
+        </scene>
+        <!--PersonalCenter-->
+        <scene sceneID="w3D-R0-3li">
+            <objects>
+                <viewControllerPlaceholder storyboardName="PersonalCenter" id="9m1-HG-wYP" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="" image="home_mine_tab" selectedImage="home_mine_tab_s" id="9xO-Tk-kus">
+                        <inset key="imageInsets" minX="0.0" minY="8" maxX="0.0" maxY="-8"/>
+                    </tabBarItem>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="2YJ-Vi-xSG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="637" y="432"/>
+        </scene>
+        <!--Base Tab Bar View Controller-->
+        <scene sceneID="LMa-Fa-Vf8">
+            <objects>
+                <tabBarController modalTransitionStyle="flipHorizontal" hidesBottomBarWhenPushed="YES" id="Yxw-Lq-Fed" customClass="baseTabBarViewController" customModule="dropsMall" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBar key="tabBar" contentMode="scaleToFill" translucent="NO" id="lJO-ek-nbA">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="barTintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="selectedImageTintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </tabBar>
+                    <connections>
+                        <segue destination="Qud-ar-fgN" kind="relationship" relationship="viewControllers" id="Abc-ns-cF3"/>
+                        <segue destination="eyT-o6-e9i" kind="relationship" relationship="viewControllers" id="viU-jt-v3k"/>
+                        <segue destination="9m1-HG-wYP" kind="relationship" relationship="viewControllers" id="DEY-mp-nU8"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="onY-tR-LbC" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-176.80000000000001" y="229.83508245877064"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="home_category_tab" width="97" height="22"/>
+        <image name="home_category_tab_s" width="97" height="22"/>
+        <image name="home_home_tab" width="97" height="22"/>
+        <image name="home_home_tab_s" width="97" height="22"/>
+        <image name="home_mine_tab" width="97" height="22"/>
+        <image name="home_mine_tab_s" width="97" height="22"/>
+    </resources>
+</document>

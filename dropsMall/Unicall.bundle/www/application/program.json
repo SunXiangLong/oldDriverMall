@@ -1,0 +1,470 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "eef1c8eb0d7fe2bf3510cd1b6a983e77835ddcf2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/eef1c8eb0d7fe2bf3510cd1b6a983e77835ddcf2.js?meteor_js_resource=true",
+      "size": 921100,
+      "hash": "eef1c8eb0d7fe2bf3510cd1b6a983e77835ddcf2"
+    },
+    {
+      "path": "a76d1b96fbb034fd1ee1f16f70909e2f5e1dffd4.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a76d1b96fbb034fd1ee1f16f70909e2f5e1dffd4.css?meteor_css_resource=true",
+      "size": 170948,
+      "hash": "a76d1b96fbb034fd1ee1f16f70909e2f5e1dffd4"
+    },
+    {
+      "path": "packages/emojione_emojione/assets/sprites/emojione.sprites.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione_emojione/assets/sprites/emojione.sprites.css",
+      "size": 86575,
+      "hash": "de0ad7e43134637597e5f76818d5265836179174"
+    },
+    {
+      "path": "packages/emojione_emojione/assets/sprites/emojione.sprites.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione_emojione/assets/sprites/emojione.sprites.svg",
+      "size": 4194629,
+      "hash": "a56fe39bf441e70aecdb5b6d3e4c9f6d767db551"
+    },
+    {
+      "path": "packages/emojione_emojione/assets/sprites/emojione.sprites.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/emojione_emojione/assets/sprites/emojione.sprites.png",
+      "size": 1926646,
+      "hash": "6f39a890cda507596859785541078be8721cac79"
+    },
+    {
+      "path": "packages/horka_swipebox/swipebox/img/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/horka_swipebox/swipebox/img/loader.gif",
+      "size": 2608,
+      "hash": "73cc8b5746edcff8523501fd4b7e2ffee9467d93"
+    },
+    {
+      "path": "packages/horka_swipebox/swipebox/img/icons.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/horka_swipebox/swipebox/img/icons.png",
+      "size": 729,
+      "hash": "736d71a289ee97ee8ce0639dfa615510cf0dfbb5"
+    },
+    {
+      "path": "packages/horka_swipebox/swipebox/img/icons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/horka_swipebox/swipebox/img/icons.svg",
+      "size": 1431,
+      "hash": "793ebf03d9f484185afdc9d459d173d7eadfeb87"
+    },
+    {
+      "path": "packages/axw_ratchet/ratchet-2/fonts/ratchicons.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/axw_ratchet/ratchet-2/fonts/ratchicons.eot",
+      "size": 11688,
+      "hash": "3e2f11ef06160de4fef451a01d655c3c662f9753"
+    },
+    {
+      "path": "packages/axw_ratchet/ratchet-2/fonts/ratchicons.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/axw_ratchet/ratchet-2/fonts/ratchicons.ttf",
+      "size": 11512,
+      "hash": "d5d6a15cb1d13e992f8acf6c274de15313d79464"
+    },
+    {
+      "path": "packages/axw_ratchet/ratchet-2/fonts/ratchicons.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/axw_ratchet/ratchet-2/fonts/ratchicons.svg",
+      "size": 11826,
+      "hash": "de52f2df4002024d7fc166339469a6dc001f7500"
+    },
+    {
+      "path": "packages/axw_ratchet/ratchet-2/fonts/ratchicons.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/axw_ratchet/ratchet-2/fonts/ratchicons.woff",
+      "size": 6780,
+      "hash": "6d016f93966ad97bdb4c3b486ee11aab88481fdf"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/CreateTicketFailed.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/CreateTicketFailed.png",
+      "size": 2632,
+      "hash": "6e7ead1cfd42579601ccc2de39b296b299c29682"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/CreateTicketSuccess.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/CreateTicketSuccess.png",
+      "size": 2583,
+      "hash": "de4a06ece8518947c64a9fd27dbed125a272c1e2"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/agent_avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/agent_avatar.png",
+      "size": 2237,
+      "hash": "2cfeff676412ea7936b8e67f736ace27a92c09d1"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/apploading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/apploading.gif",
+      "size": 53294,
+      "hash": "932083d330ad3ba3eef1ff2375d5016e863de92f"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/bad.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/bad.png",
+      "size": 887,
+      "hash": "8e8d2eef877665ea8363b6f5264bcde53560c50a"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/choice.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/choice.png",
+      "size": 1082,
+      "hash": "a7b4867803e8ccf9c67bdac7b38365925f2a0ed2"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/close-hover.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/close-hover.png",
+      "size": 1309,
+      "hash": "e37f44992b97d88ae8c11b3e801f6aeb1afaf2d0"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/close.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/close.png",
+      "size": 488,
+      "hash": "fe101e938335a785c0509eb219f423460dcfc4c6"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/css_sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/css_sprite.png",
+      "size": 33799,
+      "hash": "cf5d6ee9b22fe1a889ef85f816e80dda77b6e1b3"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/cut.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/cut.png",
+      "size": 1087,
+      "hash": "9dd818a7fb6453bdc5ae99540fa97cc5291c77e9"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/delete_hover.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/delete_hover.png",
+      "size": 226,
+      "hash": "cef82be0606fa3ab89237f0ecb917c3e5c148eef"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/excelFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/excelFile.png",
+      "size": 1396,
+      "hash": "703492e607798a91dfbcae2554b27c891627b601"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/good.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/good.png",
+      "size": 800,
+      "hash": "54701f30e1b2d7c29c17fb083f648ab535c3aa8a"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/great.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/great.png",
+      "size": 962,
+      "hash": "dc6f706778760c0474046b2d1a6ebfa2bccb84e0"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/ie8Error.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/ie8Error.png",
+      "size": 1779,
+      "hash": "abfc8284731a635eeb60abf5d889bb9fdec11ec9"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/ie8ErrorClose.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/ie8ErrorClose.png",
+      "size": 388,
+      "hash": "c5a41e4f1e0b97b5472a86a57684e4388a3b73d6"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/image_loading.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/image_loading.png",
+      "size": 3259,
+      "hash": "56d502ee6fd9c845f0f4ef4b41d6fa3af0312fa0"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/leaveRoom.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/leaveRoom.png",
+      "size": 1181,
+      "hash": "5c2ea5e3997fa95c639a3f36959294a2aa18289e"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/load.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/load.gif",
+      "size": 2495,
+      "hash": "3d2bc3203d0c0cea5b098a1eaa2ab221b46ecec1"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/min.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/min.png",
+      "size": 414,
+      "hash": "98bb572d901451316277f38dd2e39eaaf58ed6aa"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/model1StatusHide.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/model1StatusHide.png",
+      "size": 1137,
+      "hash": "92218cb6654c3589a4a077afb94f914a4f28e546"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/msg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/msg.png",
+      "size": 451,
+      "hash": "50496e96fcce2ec4259a7797e129e8c76619663f"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/pdfFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/pdfFile.png",
+      "size": 1337,
+      "hash": "d868d2454f23d803ca05529c0a696deb8f83ea0b"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/sendFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/sendFile.png",
+      "size": 1965,
+      "hash": "2cb822dcab8dcb017bc87f385b1f142e0c04b75f"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/sendFile.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/sendFile.svg",
+      "size": 882,
+      "hash": "e24e9f1dd2369ca07f7fd20818f34027eb11fae4"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/unknownFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/unknownFile.png",
+      "size": 1312,
+      "hash": "62e68bff709c05b7dcde7d868a3fae9acadb7bb0"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/videoFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/videoFile.png",
+      "size": 1374,
+      "hash": "1ba2f0656278ec38ad3da26dc970802c199cfd11"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/visitor_avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/visitor_avatar.png",
+      "size": 1750,
+      "hash": "ba773f230ab948c93f35cd3cdfcea8a3b25b9961"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/voice_gray_playing.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/voice_gray_playing.gif",
+      "size": 513,
+      "hash": "045a42c6780f4ff9e76c6c1aac0eb6fa2b979040"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/voice_playing.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/voice_playing.gif",
+      "size": 597,
+      "hash": "f4f308f9d5622f6cfa22d63a52a841df7840dee8"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/wordFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/wordFile.png",
+      "size": 1391,
+      "hash": "082c98b8819d8c9cec09e382a84cf9128f853f81"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/yunkefu.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/yunkefu.png",
+      "size": 1366,
+      "hash": "3543df41f3d8c56053a5b9407d0057cc8409564e"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/zipFile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/zipFile.png",
+      "size": 1375,
+      "hash": "21f406ee0ae6de69badec39df3bc58345c9f6f31"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/css/ie8.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/css/ie8.css",
+      "size": 144,
+      "hash": "7ee3b7afa05133805306de2e1b2d8b69c6d9d850"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/font/config.json",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/font/config.json",
+      "size": 4106,
+      "hash": "2b25b2e20baced63212af3f0d35a094f53cfb868"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/font/fontello.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/font/fontello.eot",
+      "size": 11260,
+      "hash": "2a1e42e8b1ee6a728e56274dbb1d56be866d4be6"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/font/fontello.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/font/fontello.ttf",
+      "size": 11092,
+      "hash": "14fd65e51ab657f6bc9bafcc0d0b28881ea6715f"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/font/fontello.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/font/fontello.woff",
+      "size": 6948,
+      "hash": "709060ffec49130fe60a8a2e4ef775012f4bc361"
+    },
+    {
+      "path": "packages/rocketchat_livechat/public/font/fontello.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/rocketchat_livechat/public/font/fontello.woff2",
+      "size": 5976,
+      "hash": "a05ee513b866afd1e88666e3ff37eeb1723e89fb"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "14ded03213f3c9275bf23bd4f3617aa568599bd4"
+    }
+  ]
+}

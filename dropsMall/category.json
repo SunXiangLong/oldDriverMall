@@ -1,0 +1,1575 @@
+{
+  "category": [
+    {
+      "cat_id": "1",
+      "cat_name": "汽车用品",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon1.png?v=1",
+      "child_categories": [
+        {
+          "cat_id": "9",
+          "cat_name": "车载电器",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "53",
+              "cat_name": "导航仪",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "54",
+              "cat_name": "安全预警仪",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "55",
+              "cat_name": "行车记录仪",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "56",
+              "cat_name": "倒车雷达",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "57",
+              "cat_name": "蓝牙设备",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "58",
+              "cat_name": "车载影音",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "59",
+              "cat_name": "净化器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "60",
+              "cat_name": "车载电台",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "61",
+              "cat_name": "吸尘器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "62",
+              "cat_name": "汽车音响",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "10",
+          "cat_name": "维修保养",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "63",
+              "cat_name": "机油",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "64",
+              "cat_name": "添加剂",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "65",
+              "cat_name": "汽车喇叭",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "66",
+              "cat_name": "雨刷",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "67",
+              "cat_name": "火花塞",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "68",
+              "cat_name": "防冻液",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "69",
+              "cat_name": "柴机油",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "70",
+              "cat_name": "车灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "71",
+              "cat_name": "后视镜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "72",
+              "cat_name": "轮胎",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "73",
+              "cat_name": "刹车片",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "74",
+              "cat_name": "蓄电池",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "75",
+              "cat_name": "贴膜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "76",
+              "cat_name": "汽修工具",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "11",
+          "cat_name": "美容清洗",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "77",
+              "cat_name": "车蜡",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "78",
+              "cat_name": "玻璃水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "79",
+              "cat_name": "清洁剂",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "80",
+              "cat_name": "洗车工具",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "81",
+              "cat_name": "汽车贴膜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "82",
+              "cat_name": "打蜡机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "83",
+              "cat_name": "洗车机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "84",
+              "cat_name": "洗车水枪",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "85",
+              "cat_name": "毛巾掸子",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "12",
+          "cat_name": "汽车装饰",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "86",
+              "cat_name": "脚垫",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "87",
+              "cat_name": "座垫",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "88",
+              "cat_name": "座套",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "89",
+              "cat_name": "后备箱垫",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "90",
+              "cat_name": "头枕腰靠",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "91",
+              "cat_name": "方向盘套",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "92",
+              "cat_name": "香水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "93",
+              "cat_name": "空气净化",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "94",
+              "cat_name": "挂件摆件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "95",
+              "cat_name": "车衣",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "13",
+          "cat_name": "安全自驾",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "96",
+              "cat_name": "安全座椅",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "97",
+              "cat_name": "胎压监测",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "98",
+              "cat_name": "防盗设备",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "99",
+              "cat_name": "应急救援",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "100",
+              "cat_name": "保温箱",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "2",
+      "cat_name": "酒水饮料",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon2.png",
+      "child_categories": [
+        {
+          "cat_id": "14",
+          "cat_name": "饮料冲调",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "101",
+              "cat_name": "饮用水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "102",
+              "cat_name": "饮料",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "103",
+              "cat_name": "牛奶酸奶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "104",
+              "cat_name": "咖啡/奶茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "105",
+              "cat_name": "冲饮谷物",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "106",
+              "cat_name": "蜂蜜/柚子茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "107",
+              "cat_name": "成人奶粉",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "15",
+          "cat_name": "茗茶",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "108",
+              "cat_name": "铁观音",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "109",
+              "cat_name": "普洱",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "110",
+              "cat_name": "龙井",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "111",
+              "cat_name": "绿茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "112",
+              "cat_name": "红茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "113",
+              "cat_name": "乌龙茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "114",
+              "cat_name": "花果茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "115",
+              "cat_name": "养生茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "116",
+              "cat_name": "黑茶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "117",
+              "cat_name": "白茶",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "3",
+      "cat_name": "美妆个护",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon3.png",
+      "child_categories": [
+        {
+          "cat_id": "16",
+          "cat_name": "面部护理",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "118",
+              "cat_name": "卸妆",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "119",
+              "cat_name": "洁面",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "120",
+              "cat_name": "爽肤水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "121",
+              "cat_name": "乳液面霜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "122",
+              "cat_name": "精华",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "123",
+              "cat_name": "眼霜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "124",
+              "cat_name": "防晒",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "125",
+              "cat_name": "面膜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "126",
+              "cat_name": "剃须",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "350",
+              "cat_name": "清洁",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "17",
+          "cat_name": "身体护理",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "127",
+              "cat_name": "沐浴",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "128",
+              "cat_name": "润肤",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "129",
+              "cat_name": "精油",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "130",
+              "cat_name": "颈部",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "131",
+              "cat_name": "手足",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "132",
+              "cat_name": "纤体塑形",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "133",
+              "cat_name": "美胸",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "18",
+          "cat_name": "口腔护理",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "134",
+              "cat_name": "牙膏/牙粉",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "135",
+              "cat_name": "牙刷/牙线",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "136",
+              "cat_name": "漱口水",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "19",
+          "cat_name": "香水彩妆",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "137",
+              "cat_name": "女士香水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "138",
+              "cat_name": "男士香水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "139",
+              "cat_name": "底妆",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "140",
+              "cat_name": "眉笔",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "141",
+              "cat_name": "睫毛膏",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "142",
+              "cat_name": "眼线",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "143",
+              "cat_name": "眼影",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "144",
+              "cat_name": "唇部",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "145",
+              "cat_name": "腮红",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "146",
+              "cat_name": "美甲",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "147",
+              "cat_name": "美妆工具",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "20",
+          "cat_name": "洗发护发",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "148",
+              "cat_name": "洗发",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "149",
+              "cat_name": "护发",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "150",
+              "cat_name": "染发",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "151",
+              "cat_name": "假发",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "5",
+      "cat_name": "家居家装",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon5.png",
+      "child_categories": [
+        {
+          "cat_id": "26",
+          "cat_name": "厨房卫浴",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "199",
+              "cat_name": "淋浴花洒",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "200",
+              "cat_name": "厨卫挂件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "201",
+              "cat_name": "龙头",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "202",
+              "cat_name": "水槽",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "203",
+              "cat_name": "净水饮水",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "204",
+              "cat_name": "马桶",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "205",
+              "cat_name": "浴室柜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "206",
+              "cat_name": "橱柜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "207",
+              "cat_name": "厨卫配件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "208",
+              "cat_name": "浴缸",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "209",
+              "cat_name": "淋浴房",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "27",
+          "cat_name": "灯饰照明",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "210",
+              "cat_name": "吊灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "211",
+              "cat_name": "台灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "212",
+              "cat_name": "LED灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "213",
+              "cat_name": "装饰灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "214",
+              "cat_name": "节能灯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "215",
+              "cat_name": "手电筒",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "216",
+              "cat_name": "落地灯",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "28",
+          "cat_name": "五金工具",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "217",
+              "cat_name": "智能锁",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "218",
+              "cat_name": "手动工具",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "219",
+              "cat_name": "电动工具",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "220",
+              "cat_name": "测量工具",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "221",
+              "cat_name": "劳防工具",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "222",
+              "cat_name": "气动工具",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "29",
+          "cat_name": "电工电料",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "223",
+              "cat_name": "智能家居",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "224",
+              "cat_name": "电线/电缆",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "225",
+              "cat_name": "配电箱",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "226",
+              "cat_name": "开关插座",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "227",
+              "cat_name": "电料配件",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "30",
+          "cat_name": "客厅家具",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "228",
+              "cat_name": "沙发",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "229",
+              "cat_name": "鞋柜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "230",
+              "cat_name": "凳子",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "231",
+              "cat_name": "电视柜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "232",
+              "cat_name": "屏风",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "233",
+              "cat_name": "壁炉",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "345",
+              "cat_name": "水杯/水壶",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "6",
+      "cat_name": "图书音像",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon6.png",
+      "child_categories": [
+        {
+          "cat_id": "31",
+          "cat_name": "文学",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "234",
+              "cat_name": "文学",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "235",
+              "cat_name": "传记",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "236",
+              "cat_name": "青春文学",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "237",
+              "cat_name": "世界名著",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "238",
+              "cat_name": "外国小说",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "239",
+              "cat_name": "散文随笔",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "349",
+              "cat_name": "小说",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "32",
+          "cat_name": "童书",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "240",
+              "cat_name": "0-2岁",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "241",
+              "cat_name": "3-6岁",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "242",
+              "cat_name": "7-10岁",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "243",
+              "cat_name": "11-14岁",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "244",
+              "cat_name": "童书",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "245",
+              "cat_name": "科普",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "246",
+              "cat_name": "绘本",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "247",
+              "cat_name": "智力开发",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "248",
+              "cat_name": "幼儿启蒙",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "249",
+              "cat_name": "少儿英语",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "250",
+              "cat_name": "手工游戏",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "33",
+          "cat_name": "教育考试",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "251",
+              "cat_name": "外语学习",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "252",
+              "cat_name": "考试",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "253",
+              "cat_name": "字典词典",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "254",
+              "cat_name": "考研英语",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "255",
+              "cat_name": "会计类考试",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "256",
+              "cat_name": "字帖",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "257",
+              "cat_name": "工程类考试",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "34",
+          "cat_name": "经管",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "258",
+              "cat_name": "经济",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "259",
+              "cat_name": "金融与投资",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "260",
+              "cat_name": "市场营销",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "261",
+              "cat_name": "个人理财",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "262",
+              "cat_name": "电子商务",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "263",
+              "cat_name": "股票",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "35",
+          "cat_name": "人文社科",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "264",
+              "cat_name": "历史",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "265",
+              "cat_name": "政治",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "266",
+              "cat_name": "国学古籍",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "267",
+              "cat_name": "法律",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "268",
+              "cat_name": "文化",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "269",
+              "cat_name": "社会科学",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "270",
+              "cat_name": "心理学",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "347",
+              "cat_name": "励志与成功",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "348",
+              "cat_name": "哲学/宗教",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "7",
+      "cat_name": "食品生鲜",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon7.png",
+      "child_categories": [
+        {
+          "cat_id": "36",
+          "cat_name": "饮料冲调",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "271",
+              "cat_name": "咖啡/奶茶",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "37",
+          "cat_name": "海鲜水产",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "272",
+              "cat_name": "小龙虾",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "273",
+              "cat_name": "大闸蟹",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "274",
+              "cat_name": "臭鳜鱼",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "38",
+          "cat_name": "肉禽蛋品",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "275",
+              "cat_name": "熟食腊味",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "39",
+          "cat_name": "粮油",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "276",
+              "cat_name": "米面",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "277",
+              "cat_name": "杂粮",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "278",
+              "cat_name": "食用油",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "279",
+              "cat_name": "调味品",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "280",
+              "cat_name": "南北干货",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "281",
+              "cat_name": "方便食品",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "282",
+              "cat_name": "有机食品",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "40",
+          "cat_name": "休闲食品",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "283",
+              "cat_name": "熟食腊味",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "284",
+              "cat_name": "休闲零食",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "285",
+              "cat_name": "坚果炒货",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "286",
+              "cat_name": "肉干肉脯",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "287",
+              "cat_name": "蜜饯果干",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "288",
+              "cat_name": "糖果/巧克力",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "289",
+              "cat_name": "饼干蛋糕",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "290",
+              "cat_name": "无糖食品",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "41",
+          "cat_name": "环球美食",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "291",
+              "cat_name": "麦片",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "292",
+              "cat_name": "枸杞",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "293",
+              "cat_name": "大米",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "42",
+          "cat_name": "产地直供",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "294",
+              "cat_name": "产地直供",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "8",
+      "cat_name": "手机数码",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/cat_icon8.png",
+      "child_categories": [
+        {
+          "cat_id": "43",
+          "cat_name": "手机通讯",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "295",
+              "cat_name": "手机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "296",
+              "cat_name": "对讲机",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "44",
+          "cat_name": "手机配件",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "297",
+              "cat_name": "充电器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "298",
+              "cat_name": "手机壳",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "299",
+              "cat_name": "贴膜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "300",
+              "cat_name": "手机支架",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "301",
+              "cat_name": "数据线",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "302",
+              "cat_name": "手机存储卡",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "303",
+              "cat_name": "创意配件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "304",
+              "cat_name": "手机饰品",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "305",
+              "cat_name": "手机电池",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "306",
+              "cat_name": "苹果周边",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "307",
+              "cat_name": "移动电源",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "308",
+              "cat_name": "耳机",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "45",
+          "cat_name": "数码配件",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "309",
+              "cat_name": "音响",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "46",
+          "cat_name": "笔记本",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "310",
+              "cat_name": "笔记本",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "311",
+              "cat_name": "电源适配器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "312",
+              "cat_name": "笔记本内胆包",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "47",
+          "cat_name": "音响",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "313",
+              "cat_name": "存储卡",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "314",
+              "cat_name": "三脚架/云台",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "315",
+              "cat_name": "相机清洁/贴膜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "316",
+              "cat_name": "滤镜",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "317",
+              "cat_name": "闪光灯/手柄",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "318",
+              "cat_name": "相机包",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "319",
+              "cat_name": "无人机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "320",
+              "cat_name": "机身附件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "321",
+              "cat_name": "镜头附件",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "322",
+              "cat_name": "读卡器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "323",
+              "cat_name": "支架",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "324",
+              "cat_name": "电池/充电器",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "325",
+              "cat_name": "数码影像",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "326",
+              "cat_name": "智能穿戴",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "327",
+              "cat_name": "网关",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "328",
+              "cat_name": "水质检测笔",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "329",
+              "cat_name": "体脂称",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "330",
+              "cat_name": "随身wifi",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "48",
+          "cat_name": "电脑、办公",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "331",
+              "cat_name": "笔类",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "49",
+          "cat_name": "手机耳机",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "332",
+              "cat_name": "音乐耳机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "333",
+              "cat_name": "蓝牙耳机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "334",
+              "cat_name": "手机耳机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "335",
+              "cat_name": "入耳式耳机",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "336",
+              "cat_name": "头戴式耳机",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "50",
+          "cat_name": "平板",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "337",
+              "cat_name": "平板",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "51",
+          "cat_name": "智能设备",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "338",
+              "cat_name": "智能家居",
+              "cat_icon": ""
+            },
+            {
+              "cat_id": "339",
+              "cat_name": "扫地机器人配件",
+              "cat_icon": ""
+            }
+          ]
+        },
+        {
+          "cat_id": "52",
+          "cat_name": "汽车用品",
+          "cat_icon": "",
+          "child_categories": [
+            {
+              "cat_id": "340",
+              "cat_name": "功能小件",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cat_id": "342",
+      "cat_name": "健康服务",
+      "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/201708/150267896742034366.png",
+      "child_categories": [
+        {
+          "cat_id": "343",
+          "cat_name": "体检",
+          "cat_icon": "https://laosijivip.oss-cn-beijing.aliyuncs.com/static/imgs/icon/201708/150226124598765055.png",
+          "child_categories": [
+            {
+              "cat_id": "344",
+              "cat_name": "司机体检",
+              "cat_icon": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

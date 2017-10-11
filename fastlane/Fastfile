@@ -1,0 +1,59 @@
+fastlane_version "2.61.0"
+
+default_platform :ios
+
+def archive(path, name, scheme, method)
+
+gym(
+export_method: method,
+scheme: scheme,
+clean: true,
+output_directory: path,
+output_name: name,
+configuration: 'Release',
+include_symbols: false,
+include_bitcode: true,
+)
+
+end
+
+platform :ios do
+
+desc "打包 type 1: 正式, 0: 测试"
+
+lane :archive do |options|
+
+time = Time.new.strftime("%Y-%m-%d-%H:%M:%S")
+
+path = "./fastlane/" + time
+
+type = options[:type]
+
+
+# 使用证书创建私钥及签名
+#cert
+
+# 不带adhoc参数，sigh会自动生成App Store证书(公司或个人帐户)
+#sigh(
+#adhoc: true,
+#force: true,
+#)
+
+if type == '1'
+name = '正式'
+archive(path, name, 'dropsMall', 'app-store')
+elsif type == '0'
+name = '测试'
+archive(path, name, 'dropsMall', 'ad-hoc')
+# 上传至蒲公英
+system 'ipa distribute:pgyer -f ./' + time + '/' + name + '.ipa -u e32bea908036f0cdf47d92f6a82ca1f1 -a b87a71f60eb79cc1df6789ba7e7cb12d'
+# 上传至fir
+#system 'fir publish ./' + time + '/' + name + '.ipa -T 88ec83ae588f744f881ddf4b1283081c'
+else
+puts "type错误, type == '0' : 测试, type== '1' : 正式"
+end
+
+end
+
+end
+
