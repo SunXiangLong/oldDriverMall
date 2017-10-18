@@ -14,7 +14,7 @@ import SwiftyJSON
 import IBAnimatable
 import RxDataSources
 import CoreLocation
-
+import RealmSwift
 class headView: UICollectionReusableView {
     
     @IBOutlet weak var bannerView: GLCircleView!
@@ -143,6 +143,7 @@ class HomeVC: baseViewController{
     @IBOutlet weak var searchTextField: AnimatableTextField!
     
     @IBOutlet weak var cityBtn: UIButton!
+    
     var homeModel:homeModel?
     
     override func viewDidLoad() {
@@ -169,9 +170,6 @@ class HomeVC: baseViewController{
     var oldCity = "北京"
     
     @IBAction   func citySelection(_ sender: Any) {
-        
-        
-        
         let cityViewController = JFCityViewController.init()
         cityViewController.title = "城市"
         cityViewController.choseCityBlock {[unowned self]  (city) in
@@ -186,11 +184,6 @@ class HomeVC: baseViewController{
                 self.oldCity = citynameStr
                 self.obser?.onNext(citynameStr)
             }
-           
-            
-            
-            
-            
         }
         
         let  nav = UINavigationController.init(rootViewController: cityViewController)
@@ -220,10 +213,6 @@ class HomeVC: baseViewController{
      
         let just = Observable<String>.create { observer in
             self.obser = observer
-            
-            
-            
-            
             return Disposables.create()
         }
         

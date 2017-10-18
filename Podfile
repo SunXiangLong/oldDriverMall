@@ -17,6 +17,7 @@ target 'dropsMall' do
    pod 'MJRefresh'
    pod 'KYNavigationProgress'
    pod 'SMSSDK'
+   pod 'RealmSwift'
 #   pod 'DGElasticPullToRefresh'
    pod 'PKHUD', :git => 'https://github.com/pkluz/PKHUD.git', :branch => 'release/swift4'
    pod 'Kingfisher'

@@ -82,6 +82,7 @@
 		9FDE6BB11F1773EF0051E98F /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FDE6BB01F1773EF0051E98F /* CoreFoundation.framework */; };
 		9FDE6BB31F177AD80051E98F /* registeredUsersVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FDE6BB21F177AD80051E98F /* registeredUsersVC.swift */; };
 		9FED0C671F2706A90050915F /* footView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FED0C661F2706A90050915F /* footView.swift */; };
+		EAAA03EB1F9740300089F4A9 /* loginViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAA03EA1F9740300089F4A9 /* loginViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -175,6 +176,7 @@
 		9FDE6BB01F1773EF0051E98F /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		9FDE6BB21F177AD80051E98F /* registeredUsersVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = registeredUsersVC.swift; sourceTree = "<group>"; };
 		9FED0C661F2706A90050915F /* footView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = footView.swift; sourceTree = "<group>"; };
+		EAAA03EA1F9740300089F4A9 /* loginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loginViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -314,6 +316,7 @@
 		9F172ACE1F1B04D400D623AC /* Login */ = {
 			isa = PBXGroup;
 			children = (
+				EAAA03E91F973FFA0089F4A9 /* ViewModel */,
 				9F0F8EAE1F160186004BBC70 /* loginVC.swift */,
 				9FDE6BB21F177AD80051E98F /* registeredUsersVC.swift */,
 				9F172ACF1F1B050400D623AC /* forgotPasswordVC.swift */,
@@ -448,6 +451,14 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		EAAA03E91F973FFA0089F4A9 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				EAAA03EA1F9740300089F4A9 /* loginViewModel.swift */,
+			);
+			name = ViewModel;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -483,6 +494,7 @@
 				TargetAttributes = {
 					9F0F8E7D1F15B836004BBC70 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 6Q52DP5P8X;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Manual;
 					};
@@ -569,6 +581,8 @@
 				"${BUILT_PRODUCTS_DIR}/Moya/Moya.framework",
 				"${BUILT_PRODUCTS_DIR}/PKHUD/PKHUD.framework",
 				"${BUILT_PRODUCTS_DIR}/PageMenu/PageMenu.framework",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
 				"${BUILT_PRODUCTS_DIR}/Result/Result.framework",
 				"${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework",
 				"${BUILT_PRODUCTS_DIR}/RxDataSources/RxDataSources.framework",
@@ -597,6 +611,8 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Moya.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PKHUD.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PageMenu.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmSwift.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Result.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxCocoa.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RxDataSources.framework",
@@ -677,6 +693,7 @@
 				9FB2E9EE1F1865BB00C281AC /* personalCenterVC.swift in Sources */,
 				9F8067641F1B5F3E003BF94B /* JFButton.m in Sources */,
 				9FD97D051F2733B4007EA77F /* goodsCommentsVC.swift in Sources */,
+				EAAA03EB1F9740300089F4A9 /* loginViewModel.swift in Sources */,
 				9F2C8E9F1F1A0BB800BA527E /* memberCenterVC.swift in Sources */,
 				9F2C8E9B1F19C71800BA527E /* activityWebVC.swift in Sources */,
 				9F80676A1F1B5F3E003BF94B /* JFSearchView.m in Sources */,
@@ -828,7 +845,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6Q52DP5P8X;
 				INFOPLIST_FILE = dropsMall/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -838,8 +855,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.laosiji.xiaomabao.www;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "38513bc2-9ca1-4925-b518-97557765fcb3";
+				PROVISIONING_PROFILE_SPECIFIER = laosiji_Development;
 				SWIFT_OBJC_BRIDGING_HEADER = "dropsMall/dropsMall-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
@@ -852,9 +869,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 6Q52DP5P8X;
 				INFOPLIST_FILE = dropsMall/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -864,8 +881,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.laosiji.xiaomabao.www;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+				PROVISIONING_PROFILE = "7eabfdb8-383f-4a4b-9607-425176d30fc9";
+				PROVISIONING_PROFILE_SPECIFIER = "laosiji_iOS Ad Hoc";
 				SWIFT_OBJC_BRIDGING_HEADER = "dropsMall/dropsMall-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};

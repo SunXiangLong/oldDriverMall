@@ -45,9 +45,12 @@ archive(path, name, 'dropsMall', 'app-store')
 elsif type == '0'
 name = '测试'
 archive(path, name, 'dropsMall', 'ad-hoc')
-# 上传至蒲公英
-system 'ipa distribute:pgyer -f ./' + time + '/' + name + '.ipa -u e32bea908036f0cdf47d92f6a82ca1f1 -a b87a71f60eb79cc1df6789ba7e7cb12d'
-# 上传至fir
+
+puts "上传至蒲公英"
+pgyer(api_key: "b87a71f60eb79cc1df6789ba7e7cb12d", user_key: "e32bea908036f0cdf47d92f6a82ca1f1")
+
+#system 'ipa distribute:pgyer -f ./' + time + '/' + name + '.ipa -u e32bea908036f0cdf47d92f6a82ca1f1 -a b87a71f60eb79cc1df6789ba7e7cb12d'
+puts "上传至fir"
 #system 'fir publish ./' + time + '/' + name + '.ipa -T 88ec83ae588f744f881ddf4b1283081c'
 else
 puts "type错误, type == '0' : 测试, type== '1' : 正式"
